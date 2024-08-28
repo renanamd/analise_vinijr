@@ -18,7 +18,7 @@
 
 ## Sobre o Projeto
 
-Este projeto realiza uma análise básica do desempenho do jogador **Vinícius Júnior** durante a Copa América 2024. Utilizando dados da plataforma StatsBomb, o projeto explora estatísticas como chutes a gol, passes, conduções e faltas sofridas. Além disso, o projeto inclui mapas de calor que visualizam a movimentação de Vinícius Júnior no campo.
+Este projeto realiza uma análise básica do desempenho do jogador **Vinícius Júnior** durante a Copa América 2024. Utilizando dados da plataforma StatsBomb, o projeto explora estatísticas como chutes a gol, passes, conduções e faltas sofridas. Além disso, o projeto inclui um mapa de calor que visualiza a movimentação de Vinícius Júnior no campo.
 
 ## Tecnologias Utilizadas
 
