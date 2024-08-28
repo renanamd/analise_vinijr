@@ -1,11 +1,9 @@
 # Análise de Desempenho de Vinícius Júnior - Copa América 2024
 
-# Análise de Desempenho de Vinícius Júnior - Copa América 2024
-
 <table>
    <tr>
       <td> 
-         <img src="./vinicius_junior.jpg" alt="Vinícius Júnior" width="250"/>
+         <img src="https://conteudo.imguol.com.br/c/esporte/2d/2024/07/02/vini-jr-em-acao-durante-brasil-x-colombia-duelo-da-copa-america-1719970248177_v2_1x1.jpg" alt="Vinícius Júnior" width="250"/>
       </td>
       <td>
          <b>Nome Completo:</b> Vinícius José Paixão de Oliveira Júnior<br>
