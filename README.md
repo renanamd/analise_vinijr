@@ -1,6 +1,23 @@
 # Análise de Desempenho de Vinícius Júnior - Copa América 2024
 
-![Vinícius Júnior](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOrhr0IBd385IM_vifPEnl4f6FfHN557Yqgg&s)
+# Análise de Desempenho de Vinícius Júnior - Copa América 2024
+
+<table>
+   <tr>
+      <td> 
+         <img src="./vinicius_junior.jpg" alt="Vinícius Júnior" width="250"/>
+      </td>
+      <td>
+         <b>Nome Completo:</b> Vinícius José Paixão de Oliveira Júnior<br>
+         <b>Data de Nascimento:</b> 12 de julho de 2000<br>
+         <b>Nacionalidade:</b> Brasileira<br>
+         <b>Posição:</b> Atacante<br>
+         <b>Clube Atual:</b> Real Madrid<br>
+         <b>Destaques:</b> Conhecido por sua velocidade, dribles e capacidade de criar chances de gol, Vinícius Júnior é um dos principais talentos do                  futebol mundial.
+      </td>
+   </tr>
+</table>
+
 
 ## Sobre o Projeto
 
